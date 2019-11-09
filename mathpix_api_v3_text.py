@@ -10,7 +10,7 @@ import win32con
 #
 # N.B.: Set your credentials in environment variables APP_ID and APP_KEY,
 # either once via setenv or on the command line as in
-# APP_ID=my-id APP_KEY=my-key python3 simple.py
+# APP_ID=my-id APP_KEY=my-key python mathpix_api_v3_text.py
 #
 env = os.environ
 default_headers = {
